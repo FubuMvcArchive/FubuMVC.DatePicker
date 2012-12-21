@@ -1,0 +1,13 @@
+﻿<viewdata model="DatePickerHarness.DateModel"/>
+
+<content:head>
+  <Stylesheet href="jqueryuicss" />
+  <Stylesheet href="jqueryuitheme" />
+</content:head>
+
+<content:main>
+  <h1>Date Picker</h1>
+
+  <h4>Some Date:</h4>
+  <Input name="SomeDate" />
+</content:main>
