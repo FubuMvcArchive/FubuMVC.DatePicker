@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FubuMVC.DatePicker.Testing"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatePickerHarness", "DatePickerHarness\DatePickerHarness.csproj", "{1B38A441-E971-48D5-900A-008495D1E94A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FubuMVC.DatePicker.Docs", "FubuMVC.DatePicker.Docs\FubuMVC.DatePicker.Docs.csproj", "{62154240-3B12-42EB-831F-F4E9CA9DE83A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,6 +26,10 @@ Global
 		{1B38A441-E971-48D5-900A-008495D1E94A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B38A441-E971-48D5-900A-008495D1E94A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B38A441-E971-48D5-900A-008495D1E94A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62154240-3B12-42EB-831F-F4E9CA9DE83A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62154240-3B12-42EB-831F-F4E9CA9DE83A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62154240-3B12-42EB-831F-F4E9CA9DE83A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62154240-3B12-42EB-831F-F4E9CA9DE83A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
