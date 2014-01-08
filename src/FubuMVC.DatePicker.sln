@@ -1,5 +1,5 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FubuMVC.DatePicker", "FubuMVC.DatePicker\FubuMVC.DatePicker.csproj", "{2A534B65-16A2-4146-95AB-AA2FBE21ED6B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FubuMVC.DatePicker.Testing", "FubuMVC.DatePicker.Testing\FubuMVC.DatePicker.Testing.csproj", "{8CBF69A1-8077-49A7-B922-AB70E7E1109D}"
